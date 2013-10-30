@@ -1,0 +1,12 @@
+
+
+public class provem{
+
+int i=3;
+int q=3;
+
+int w=i+q;
+
+System.out.println{w}
+
+}
